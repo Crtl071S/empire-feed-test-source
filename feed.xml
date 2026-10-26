@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Empire AI Testquelle – TESTDATEN (fiktiv)</title>
+    <link>https://example.org/empire-feed-test/</link>
+    <description>TESTDATEN: Künstlicher RSS-Feed für technische Abruftests von Empire AI. Alle Produkte, Modelle, Preise und Meldungen sind vollständig erfunden. Kein Angebot, keine Marktinformation, keine Produktchance.</description>
+    <language>en</language>
+    <copyright>TESTDATEN – eigene, frei erfundene Inhalte für Empire AI; keine fremden Texte oder Marken.</copyright>
+    <lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <generator>manuell erstellt (PI-3.3c-R6)</generator>
+
+    <item>
+      <title>[TESTDATEN] Testlampe TL-1: motion-sensor desk lamp now available for €89</title>
+      <link>https://example.org/empire-feed-test/testlampe-tl-1</link>
+      <guid isPermaLink="false">empire-testfeed-r6-001</guid>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+      <category>TESTDATEN</category>
+      <category>Lighting</category>
+      <description>TESTDATEN – fiktive Produktmeldung. The Testlampe TL-1 is a compact desk lamp with a built-in motion sensor: it switches on when someone sits down and dims to 10 percent after two minutes without movement. The aluminium arm folds flat, the warm-white LED panel offers three brightness levels, and a USB-C port powers it from a laptop charger. The fictional maker Muster-Testmarke A says the lamp is now available for €89 in two colours.</description>
+    </item>
+
+    <item>
+      <title>[TESTDATEN] Tragbarer Testmixer TM-300: cordless blender for smoothies on the go</title>
+      <link>https://example.org/empire-feed-test/testmixer-tm-300</link>
+      <guid isPermaLink="false">empire-testfeed-r6-002</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
+      <category>TESTDATEN</category>
+      <category>Kitchen</category>
+      <description>TESTDATEN – fiktive Produktmeldung. The Testmixer TM-300 is a portable, battery-powered blender with a 400 ml bottle that doubles as a drinking cup. Six stainless-steel blades handle frozen fruit, a magnetic safety lock stops the motor when the lid is open, and one charge is rated for about fifteen blends. Pre-order is open now; the device is priced at $49 and is said to ship in December.</description>
+    </item>
+
+    <item>
+      <title>[TESTDATEN] Multifunktionaler Test-Organizer: modular desk organizer with wireless charging pad</title>
+      <link>https://example.org/empire-feed-test/test-organizer-mo-5</link>
+      <guid isPermaLink="false">empire-testfeed-r6-003</guid>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
+      <category>TESTDATEN</category>
+      <category>Office</category>
+      <description>TESTDATEN – fiktive Produktmeldung. The Test-Organizer MO-5 combines a pen holder, a cable tray, a drawer for small parts and a phone stand with a wireless charging pad in one bamboo frame. The modules click together magnetically, so the layout can be rearranged without tools. The announcement does not mention a price or a retailer.</description>
+    </item>
+
+    <item>
+      <title>[TESTDATEN] Kompakte Testkamera KX-2 – mysterious teaser leaves questions open</title>
+      <link>https://example.org/empire-feed-test/testkamera-kx-2</link>
+      <guid isPermaLink="false">empire-testfeed-r6-004</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
+      <category>TESTDATEN</category>
+      <category>Photography</category>
+      <description>TESTDATEN – bewusst unklare fiktive Meldung. A short teaser shows what looks like a pocket-sized camera called KX-2 with a flip-up screen and a clip mount. It is unclear whether this is a finished device, a prototype or just a rendering, and the teaser gives no specifications. Some readers expect it to launch next year; others think it might only be a design study.</description>
+    </item>
+
+    <item>
+      <title>[TESTDATEN] Concept: Testflasche TF-0 with built-in UV cleaning cap</title>
+      <link>https://example.org/empire-feed-test/testflasche-tf-0-concept</link>
+      <guid isPermaLink="false">empire-testfeed-r6-005</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+      <category>TESTDATEN</category>
+      <category>Concept</category>
+      <description>TESTDATEN – fiktive Konzeptmeldung. The Testflasche TF-0 is a design concept for an insulated bottle whose cap contains a small UV-C lamp that is meant to clean the inside after each refill. The images are 3D renderings from a fictional student project; there is no working prototype and no release date.</description>
+    </item>
+  </channel>
+</rss>
